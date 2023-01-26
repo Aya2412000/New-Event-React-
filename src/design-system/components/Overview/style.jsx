@@ -1,4 +1,5 @@
 import styled from '@emotion/styled';
+import theme from '../../Config';
 
 export const OverviewWrapper = styled("div")`
     lable:OverviewWrapper;
@@ -11,5 +12,5 @@ lable:Title;
 `;
 export const Description = styled("p")`
 lable:Description;
-   color: #828c95;
+   color:${theme.gray};
 `;

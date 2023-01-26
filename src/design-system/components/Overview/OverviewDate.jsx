@@ -1,5 +1,5 @@
 import { faAddressCard, faAngleDoubleDown, faUserGroup } from '@fortawesome/free-solid-svg-icons';
-const overviewTest = [
+const overviewData = [
     {
         id :1,
         icon : faUserGroup,
@@ -19,4 +19,4 @@ const overviewTest = [
         description : " hdfsdhfs fsdhbfhsjkdah dsfhbsh dsf rt regg dbgfbbcvdg hfghfhfyj "
     }
 ]
-export default overviewTest;
+export default overviewData;
