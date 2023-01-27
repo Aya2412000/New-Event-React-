@@ -1,0 +1,35 @@
+export default function Links(){
+  return  [
+    {
+        navLinks:'/',
+        navText:'Intro'
+    },
+    {
+        navLinks:'/overview',
+        navText:'Overview'
+    },
+    {
+        navLinks:'/speakers',
+        navText:'Speakers'
+    },
+    {
+        navLinks:'/programs',
+        navText:'Programs'
+    },
+    {
+        navLinks:'/register',
+        navText:'Register'
+    },
+    {
+        navLinks:'/venue',
+        navText:'Venue'
+    },
+    {
+        navLinks:'/sponsors',
+        navText:'Sponsors'
+    },
+    {
+        navLinks:'/contact',
+        navText:'Contact'
+    },
+]}

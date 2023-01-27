@@ -1,19 +1,13 @@
-import CreativeSpeaker from "./design-system/components/CreativeSpeaker/CreativeSpeaker";
-import { SpeakerTest } from "./design-system/components/CreativeSpeaker/SpeakerTest";
+import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import './design-system/main.css';
-
-
+import Home from './pages/Home/Home';
 function App() {
   return (
-    <div className="App">
-    <div style={{display:"flex"}}>
-      {SpeakerTest.map(item=>{
-      return(
-        <CreativeSpeaker img={item.img} name={item.name} alt={item.alt} job={item.job} key={item.id}/>
-      )
-    })}
-    </div>
-    </div>
+    <BrowserRouter>
+      <Routes>
+        <Route path='/' element={<Home/>}/>
+      </Routes>
+    </BrowserRouter>
   )
 }
 
