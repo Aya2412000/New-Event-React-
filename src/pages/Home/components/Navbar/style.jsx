@@ -3,6 +3,8 @@ import theme from '../../../../design-system/Config';
 export const Navbarwrapper=styled("section")`
     label :Navbarwrapper;
     padding: 1.5rem 0;
+    position: fixed;
+    width: 100%;
     color: ${theme.white};
     background-color: ${theme.secondary};
 `;
