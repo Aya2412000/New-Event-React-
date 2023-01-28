@@ -7,36 +7,36 @@ export const SpeakerTest=[
     {
         id:1,
         img :img1,
-        name:"Aya",
-        job : "Engineer",
+        name:"Jaany Green",
+        job : "Ui Designer",
         alt:"img1"
     },
     {
         id:2,
         img :img2,
-        name:"Ahmed",
-        job : "Doctor",
+        name:"Dived Yoon",
+        job : "Creative Director",
         alt:"img2"
     },
     {
         id:3,
         img :img3,
-        name:"Eman",
-        job : "Teatchar",
+        name:"Je Mary Lee",
+        job : "Web SpeialList",
         alt:"img3"
     },
     {
         id:4,
         img :img4,
-        name:"Mohamed",
-        job : "Doctor",
+        name:"Johnathan Doe",
+        job : "Front-end Dev",
         alt:"img4"
     },
     {
         id:5,
         img :img5,
-        name:"Alaa",
-        job : "Engineer",
+        name:"Elite Mamilton",
+        job : "Marketing",
         alt:"img5"
     },
 ]

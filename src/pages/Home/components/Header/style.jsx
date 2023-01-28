@@ -49,8 +49,9 @@ export const Register=styled("button")`
     transition: all 0.3s ;
     cursor: pointer;
     :hover {
-    border: 1px solid ${theme.primary};    
-    background-color:transparent;
+    border: 1px solid ${theme.black};    
+    background-color:${theme.white};
+    color: ${theme.black};
     }
    
 `;

@@ -1,4 +1,5 @@
 import AboutUs from "./components/About Us";
+import CreativeSpeaker from "./components/CreativeSpeaker";
 import Header from "./components/Header";
 import Navbar from "./components/Navbar";
 import OverView from "./components/Overview/Overview";
@@ -11,6 +12,7 @@ export default function Home() {
       <AboutUs/>
       <OverView/>
       <WhachVedio/>
+      <CreativeSpeaker/>
     </div>
   )
 }

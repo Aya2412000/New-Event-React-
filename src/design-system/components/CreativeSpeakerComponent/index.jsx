@@ -1,0 +1,2 @@
+export { CreativeSpeaker } from './CreativeSpeakerComponent';
+

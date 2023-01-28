@@ -5,17 +5,12 @@ export default function AboutUs() {
     <div className="container">
       <AboutWrapper>
         <Content>
-            <Span>Note that the development build is not optimized
-                To create a production build use yarn build.
+            <Span>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ducimus quis molestias amet.
             </Span>
-            <P>Note that the development build is not optimized.
-                To create a production build, use yarn build.Note that the development build is not optimized.
-                To create a production build, use yarn build.
+            <P>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente ipsum ullam quaerat suscipit tenetur architecto, facere, nobis dolorum illo distinctio excepturi, assumenda dolore. Eos soluta placeat doloribus vitae, officiis nulla!
             </P>
             <P>
-            Note that the development build is not optimized.
-                To create a production build, use yarn build.Note that the development build is not optimized.
-                To create a production build, use yarn build.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad repudiandae, nesciunt, odio aliquam sed at id atque recusandae exercitationem voluptatibus saepe nulla modi deserunt officiis? Ad officiis vero corrupti corporis?
             </P>
         </Content>
         <Image>

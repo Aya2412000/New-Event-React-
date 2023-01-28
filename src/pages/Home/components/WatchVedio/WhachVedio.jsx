@@ -5,13 +5,10 @@ export default function WhachVedio() {
       <WhachVedioWrapper>
         <Content>
             <Span>Watch Vedio</Span>
-            <SubTitle>Note that the development build is not optimized.
-                To create a production build, use yarn build.
+            <SubTitle>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veritatis voluptatem itaque consectetur aspernatur quas 
             </SubTitle>
             <P>
-            Note that the development build is not optimized.
-                To create a production build, use yarn build.Note that the development build is not optimized.
-                To create a production build, use yarn build.
+            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Reprehenderit doloribus excepturi omnis soluta error at et ipsa aliquam magni. Dolorem nulla vel ex! Minus excepturi, illo consequatur mollitia quaerat cumque?
             </P>
         </Content>
         <Image>
