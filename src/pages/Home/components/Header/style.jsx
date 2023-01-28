@@ -3,7 +3,7 @@ import header from 'images/intro-bg.jpg';
 import theme from "../../../../design-system/Config";
 export const HeaderWapper=styled("div")`
     label : HeaderWapper;
-    height: 100vh;
+    height: 700px;
     background: url(${header}) fixed;
     background-size:cover;
     background-repeat: no-repeat;
