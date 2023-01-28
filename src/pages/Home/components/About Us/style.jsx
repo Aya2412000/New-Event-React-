@@ -4,7 +4,7 @@ import theme from "../../../../design-system/Config";
 export const AboutWrapper = styled("section")`
     display: flex;
     gap: 2rem;
-    padding: 3rem 0;
+    padding: 5rem 0;
     align-items: flex-start;
 
 `;
