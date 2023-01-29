@@ -1,9 +1,10 @@
-import AboutUs from "./components/About Us";
+import AboutUs from "./components/AboutUs";
 import CreativeSpeaker from "./components/CreativeSpeaker";
 import Header from "./components/Header";
 import Navbar from "./components/Navbar";
-import OverView from "./components/Overview/Overview";
-import WhachVedio from "./components/WatchVedio/WhachVedio";
+import OurPrograms from "./components/OurPrograms";
+import OverView from "./components/Overview";
+import WhachVedio from "./components/WatchVedio";
 export default function Home() {
   return (
     <div>
@@ -13,6 +14,7 @@ export default function Home() {
       <OverView/>
       <WhachVedio/>
       <CreativeSpeaker/>
+      <OurPrograms/>
     </div>
   )
 }
