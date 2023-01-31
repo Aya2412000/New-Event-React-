@@ -1,8 +1,8 @@
 import styled from "@emotion/styled";
 import theme from "../../../../design-system/Config";
 
-export const WhachVedioWrapper = styled("section")`
-    label :WhachVedioWrapper;
+export const WatchVideoWrapper = styled("section")`
+    label :WatchVideoWrapper;
     display: flex;
     gap: 2rem;
     padding: 5rem 0;

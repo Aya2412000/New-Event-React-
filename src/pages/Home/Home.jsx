@@ -4,7 +4,8 @@ import Header from "./components/Header";
 import Navbar from "./components/Navbar";
 import OurPrograms from "./components/OurPrograms";
 import OverView from "./components/Overview";
-import WhachVedio from "./components/WatchVedio";
+import RegisterHere from "./components/RegisterHere";
+import WatchVideo from "./components/WatchVideo";
 export default function Home() {
   return (
     <div>
@@ -12,9 +13,10 @@ export default function Home() {
       <Header />
       <AboutUs/>
       <OverView/>
-      <WhachVedio/>
+      <WatchVideo/>
       <CreativeSpeaker/>
       <OurPrograms/>
+      <RegisterHere/>
     </div>
   )
 }

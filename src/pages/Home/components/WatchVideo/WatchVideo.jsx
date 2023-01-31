@@ -1,8 +1,8 @@
-import { Content, Image, P, Span, SubTitle, WhachVedioWrapper } from './style';
-export default function WhachVedio() {
+import { Content, Image, P, Span, SubTitle, WatchVideoWrapper } from './style';
+export default function WatchVideo() {
   return (
     <div className="container">
-      <WhachVedioWrapper>
+      <WatchVideoWrapper>
         <Content>
             <Span>Watch Vedio</Span>
             <SubTitle>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veritatis voluptatem itaque consectetur aspernatur quas 
@@ -17,7 +17,7 @@ export default function WhachVedio() {
             height={"350px"}
             src="https://www.youtube.com/embed/XDPwXQjAlB0" frameborder="0"></iframe>
         </Image>
-      </WhachVedioWrapper>
+      </WatchVideoWrapper>
     </div>
   )
 }
