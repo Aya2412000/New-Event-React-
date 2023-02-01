@@ -4,6 +4,7 @@ import CreativeSpeaker from "./components/CreativeSpeaker";
 import Header from "./components/Header";
 import Navbar from "./components/Navbar";
 import OurPrograms from "./components/OurPrograms";
+import OurSponsors from "./components/OurSponsors";
 import OverView from "./components/Overview";
 import RegisterHere from "./components/RegisterHere";
 import VenueComponent from "./components/Venue";
@@ -21,6 +22,7 @@ export default function Home() {
       <RegisterHere/>
       <AccordionComponent/>
       <VenueComponent/>
+      <OurSponsors/>
     </div>
   )
 }
