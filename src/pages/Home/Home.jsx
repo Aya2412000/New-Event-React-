@@ -6,6 +6,7 @@ import Navbar from "./components/Navbar";
 import OurPrograms from "./components/OurPrograms";
 import OverView from "./components/Overview";
 import RegisterHere from "./components/RegisterHere";
+import VenueComponent from "./components/Venue";
 import WatchVideo from "./components/WatchVideo";
 export default function Home() {
   return (
@@ -19,6 +20,7 @@ export default function Home() {
       <OurPrograms/>
       <RegisterHere/>
       <AccordionComponent/>
+      <VenueComponent/>
     </div>
   )
 }
