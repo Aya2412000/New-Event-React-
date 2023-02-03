@@ -1,6 +1,6 @@
 import React from 'react';
 import { useLocation } from 'react-router-dom';
-import theme from '../../../../design-system/Config';
+import { theme } from '../../../../design-system/Config';
 import Links from './Links';
 import NavLinks from './NavLinks';
 

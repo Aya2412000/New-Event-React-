@@ -1,4 +1,4 @@
-const theme ={
+export const theme ={
     primary : "#f2545f",
     secondary: "#090707",
     gray : "#707070",
@@ -6,5 +6,5 @@ const theme ={
     white : "#fff",
     whiteSmoke: "#f5f5f5",
     graySmoke:"#f7f7f7",
-}
-export default theme;
+};
+export const MadBy = "Aya Ali";

@@ -1,5 +1,5 @@
 import styled from '@emotion/styled';
-import theme from '../../../../design-system/Config';
+import { theme } from '../../../../design-system/Config';
 export const AccordionComponentWrapper = styled("section")`
     label:AccordionComponentWrapper;
     text-align:center;

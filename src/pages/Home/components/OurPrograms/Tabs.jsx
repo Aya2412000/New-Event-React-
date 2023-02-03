@@ -1,7 +1,7 @@
 import { useState } from "react";
 import OurPrograms from "../../../../design-system/components/OurPrograms/OurPrograms";
 import { Tab1, Tab2, Tab3 } from "../../../../design-system/components/OurPrograms/OurprogramsDate";
-import theme from "../../../../design-system/Config";
+import { theme } from "../../../../design-system/Config";
 import { Line, Span, Wapper } from "./style";
 
 export default function Tabs() {

@@ -1,6 +1,6 @@
 import styled from "@emotion/styled";
 import header from 'images/intro-bg.jpg';
-import theme from "../../../../design-system/Config";
+import { theme } from "../../../../design-system/Config";
 export const HeaderWapper=styled("div")`
     label : HeaderWapper;
     height: 700px;

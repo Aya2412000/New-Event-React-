@@ -1,8 +1,8 @@
 import styled from "@emotion/styled";
-import theme from "../../../../design-system/Config";
+import { theme } from "../../../../design-system/Config";
 export const Wrapper=styled("section")`
     label:Wrapper;
-    padding: 5rem 0 ;
+    padding: 4rem 0 ;
     text-align: center;
 `;
 export const Title=styled("div")`

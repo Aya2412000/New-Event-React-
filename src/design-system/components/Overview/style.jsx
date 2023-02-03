@@ -1,5 +1,5 @@
 import styled from '@emotion/styled';
-import theme from '../../Config';
+import { theme } from '../../Config';
 
 export const OverviewWrapper = styled("div")`
     label:OverviewWrapper;

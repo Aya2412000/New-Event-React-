@@ -1,6 +1,6 @@
 import styled from "@emotion/styled";
 import image from 'images/venue.jpg';
-import theme from "../../../../design-system/Config";
+import { theme } from "../../../../design-system/Config";
 export const VenueWrapper = styled("section")`
     label :VenueWrapper;
     height: 400px;
